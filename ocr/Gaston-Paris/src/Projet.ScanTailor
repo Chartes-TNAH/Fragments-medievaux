@@ -1,0 +1,2351 @@
+<project outputDirectory="/home/jbc/Data/F/LAKME/01_ocerisation/imprimes/Fragments_Garin/Gaston-Paris/pdf/out" layoutDirection="LTR">
+  <directories>
+    <directory path="/home/jbc/Data/F/LAKME/01_ocerisation/imprimes/Fragments_Garin/Gaston-Paris/pdf" id="1"/>
+  </directories>
+  <files>
+    <file dirId="1" id="2" name="0002.pdf.png"/>
+    <file dirId="1" id="5" name="0003.pdf.png"/>
+    <file dirId="1" id="8" name="0004.pdf.png"/>
+    <file dirId="1" id="11" name="0006.pdf.png"/>
+    <file dirId="1" id="14" name="0007.pdf.png"/>
+    <file dirId="1" id="17" name="0008.pdf.png"/>
+    <file dirId="1" id="20" name="0009.pdf.png"/>
+    <file dirId="1" id="23" name="0010.pdf.png"/>
+    <file dirId="1" id="26" name="0011.pdf.png"/>
+    <file dirId="1" id="29" name="0012.pdf.png"/>
+    <file dirId="1" id="32" name="0013.pdf.png"/>
+    <file dirId="1" id="35" name="0014.pdf.png"/>
+    <file dirId="1" id="38" name="0015.pdf.png"/>
+    <file dirId="1" id="41" name="0016.pdf.png"/>
+    <file dirId="1" id="44" name="0017.pdf.png"/>
+    <file dirId="1" id="47" name="0018.pdf.png"/>
+    <file dirId="1" id="50" name="0019.pdf.png"/>
+    <file dirId="1" id="53" name="0020.pdf.png"/>
+    <file dirId="1" id="56" name="0021.pdf.png"/>
+    <file dirId="1" id="59" name="0022.pdf.png"/>
+    <file dirId="1" id="62" name="0023.pdf.png"/>
+    <file dirId="1" id="65" name="0024.pdf.png"/>
+    <file dirId="1" id="68" name="0026.pdf.png"/>
+    <file dirId="1" id="71" name="0027.pdf.png"/>
+    <file dirId="1" id="74" name="0028.pdf.png"/>
+  </files>
+  <images>
+    <image subPages="1" fileImage="0" fileId="2" id="3">
+      <size width="2479" height="3508"/>
+      <dpi vertical="300" horizontal="300"/>
+    </image>
+    <image subPages="1" fileImage="0" fileId="5" id="6">
+      <size width="2479" height="3508"/>
+      <dpi vertical="300" horizontal="300"/>
+    </image>
+    <image subPages="1" fileImage="0" fileId="8" id="9">
+      <size width="2479" height="3508"/>
+      <dpi vertical="300" horizontal="300"/>
+    </image>
+    <image subPages="1" fileImage="0" fileId="11" id="12">
+      <size width="2479" height="3508"/>
+      <dpi vertical="300" horizontal="300"/>
+    </image>
+    <image subPages="1" fileImage="0" fileId="14" id="15">
+      <size width="2479" height="3508"/>
+      <dpi vertical="300" horizontal="300"/>
+    </image>
+    <image subPages="1" fileImage="0" fileId="17" id="18">
+      <size width="2479" height="3508"/>
+      <dpi vertical="300" horizontal="300"/>
+    </image>
+    <image subPages="1" fileImage="0" fileId="20" id="21">
+      <size width="2479" height="3508"/>
+      <dpi vertical="300" horizontal="300"/>
+    </image>
+    <image subPages="1" fileImage="0" fileId="23" id="24">
+      <size width="2479" height="3508"/>
+      <dpi vertical="300" horizontal="300"/>
+    </image>
+    <image subPages="1" fileImage="0" fileId="26" id="27">
+      <size width="2479" height="3508"/>
+      <dpi vertical="300" horizontal="300"/>
+    </image>
+    <image subPages="1" fileImage="0" fileId="29" id="30">
+      <size width="2479" height="3508"/>
+      <dpi vertical="300" horizontal="300"/>
+    </image>
+    <image subPages="1" fileImage="0" fileId="32" id="33">
+      <size width="2479" height="3508"/>
+      <dpi vertical="300" horizontal="300"/>
+    </image>
+    <image subPages="1" fileImage="0" fileId="35" id="36">
+      <size width="2479" height="3508"/>
+      <dpi vertical="300" horizontal="300"/>
+    </image>
+    <image subPages="1" fileImage="0" fileId="38" id="39">
+      <size width="2479" height="3508"/>
+      <dpi vertical="300" horizontal="300"/>
+    </image>
+    <image subPages="1" fileImage="0" fileId="41" id="42">
+      <size width="2479" height="3508"/>
+      <dpi vertical="300" horizontal="300"/>
+    </image>
+    <image subPages="1" fileImage="0" fileId="44" id="45">
+      <size width="2479" height="3508"/>
+      <dpi vertical="300" horizontal="300"/>
+    </image>
+    <image subPages="1" fileImage="0" fileId="47" id="48">
+      <size width="2479" height="3508"/>
+      <dpi vertical="300" horizontal="300"/>
+    </image>
+    <image subPages="1" fileImage="0" fileId="50" id="51">
+      <size width="2479" height="3508"/>
+      <dpi vertical="300" horizontal="300"/>
+    </image>
+    <image subPages="1" fileImage="0" fileId="53" id="54">
+      <size width="2479" height="3508"/>
+      <dpi vertical="300" horizontal="300"/>
+    </image>
+    <image subPages="1" fileImage="0" fileId="56" id="57">
+      <size width="2479" height="3508"/>
+      <dpi vertical="300" horizontal="300"/>
+    </image>
+    <image subPages="1" fileImage="0" fileId="59" id="60">
+      <size width="2479" height="3508"/>
+      <dpi vertical="300" horizontal="300"/>
+    </image>
+    <image subPages="1" fileImage="0" fileId="62" id="63">
+      <size width="2479" height="3508"/>
+      <dpi vertical="300" horizontal="300"/>
+    </image>
+    <image subPages="1" fileImage="0" fileId="65" id="66">
+      <size width="2479" height="3508"/>
+      <dpi vertical="300" horizontal="300"/>
+    </image>
+    <image subPages="1" fileImage="0" fileId="68" id="69">
+      <size width="2479" height="3508"/>
+      <dpi vertical="300" horizontal="300"/>
+    </image>
+    <image subPages="1" fileImage="0" fileId="71" id="72">
+      <size width="2479" height="3508"/>
+      <dpi vertical="300" horizontal="300"/>
+    </image>
+    <image subPages="1" fileImage="0" fileId="74" id="75">
+      <size width="2479" height="3508"/>
+      <dpi vertical="300" horizontal="300"/>
+    </image>
+  </images>
+  <pages>
+    <page imageId="3" subPage="single" selected="selected" id="4"/>
+    <page imageId="6" subPage="single" id="7"/>
+    <page imageId="9" subPage="single" id="10"/>
+    <page imageId="12" subPage="single" id="13"/>
+    <page imageId="15" subPage="single" id="16"/>
+    <page imageId="18" subPage="single" id="19"/>
+    <page imageId="21" subPage="single" id="22"/>
+    <page imageId="24" subPage="single" id="25"/>
+    <page imageId="27" subPage="single" id="28"/>
+    <page imageId="30" subPage="single" id="31"/>
+    <page imageId="33" subPage="single" id="34"/>
+    <page imageId="36" subPage="single" id="37"/>
+    <page imageId="39" subPage="single" id="40"/>
+    <page imageId="42" subPage="single" id="43"/>
+    <page imageId="45" subPage="single" id="46"/>
+    <page imageId="48" subPage="single" id="49"/>
+    <page imageId="51" subPage="single" id="52"/>
+    <page imageId="54" subPage="single" id="55"/>
+    <page imageId="57" subPage="single" id="58"/>
+    <page imageId="60" subPage="single" id="61"/>
+    <page imageId="63" subPage="single" id="64"/>
+    <page imageId="66" subPage="single" id="67"/>
+    <page imageId="69" subPage="single" id="70"/>
+    <page imageId="72" subPage="single" id="73"/>
+    <page imageId="75" subPage="single" id="76"/>
+  </pages>
+  <file-name-disambiguation>
+    <mapping file="2" label="0"/>
+    <mapping file="5" label="0"/>
+    <mapping file="8" label="0"/>
+    <mapping file="11" label="0"/>
+    <mapping file="14" label="0"/>
+    <mapping file="17" label="0"/>
+    <mapping file="20" label="0"/>
+    <mapping file="23" label="0"/>
+    <mapping file="26" label="0"/>
+    <mapping file="29" label="0"/>
+    <mapping file="32" label="0"/>
+    <mapping file="35" label="0"/>
+    <mapping file="38" label="0"/>
+    <mapping file="41" label="0"/>
+    <mapping file="44" label="0"/>
+    <mapping file="47" label="0"/>
+    <mapping file="50" label="0"/>
+    <mapping file="53" label="0"/>
+    <mapping file="56" label="0"/>
+    <mapping file="59" label="0"/>
+    <mapping file="62" label="0"/>
+    <mapping file="65" label="0"/>
+    <mapping file="68" label="0"/>
+    <mapping file="71" label="0"/>
+    <mapping file="74" label="0"/>
+  </file-name-disambiguation>
+  <filters>
+    <fix-orientation/>
+    <page-split defaultLayoutType="auto-detect">
+      <image id="3">
+        <params mode="auto">
+          <pages type="single-uncut">
+            <outline>
+              <point x="0" y="0"/>
+              <point x="2479" y="0"/>
+              <point x="2479" y="3508"/>
+              <point x="0" y="3508"/>
+              <point x="0" y="0"/>
+            </outline>
+          </pages>
+          <dependencies>
+            <rotation degrees="0"/>
+            <size width="2479" height="3508"/>
+            <layoutType>auto-detect</layoutType>
+          </dependencies>
+        </params>
+      </image>
+      <image id="6">
+        <params mode="auto">
+          <pages type="single-uncut">
+            <outline>
+              <point x="0" y="0"/>
+              <point x="2479" y="0"/>
+              <point x="2479" y="3508"/>
+              <point x="0" y="3508"/>
+              <point x="0" y="0"/>
+            </outline>
+          </pages>
+          <dependencies>
+            <rotation degrees="0"/>
+            <size width="2479" height="3508"/>
+            <layoutType>auto-detect</layoutType>
+          </dependencies>
+        </params>
+      </image>
+      <image id="9">
+        <params mode="auto">
+          <pages type="single-uncut">
+            <outline>
+              <point x="0" y="0"/>
+              <point x="2479" y="0"/>
+              <point x="2479" y="3508"/>
+              <point x="0" y="3508"/>
+              <point x="0" y="0"/>
+            </outline>
+          </pages>
+          <dependencies>
+            <rotation degrees="0"/>
+            <size width="2479" height="3508"/>
+            <layoutType>auto-detect</layoutType>
+          </dependencies>
+        </params>
+      </image>
+      <image id="12">
+        <params mode="auto">
+          <pages type="single-uncut">
+            <outline>
+              <point x="0" y="0"/>
+              <point x="2479" y="0"/>
+              <point x="2479" y="3508"/>
+              <point x="0" y="3508"/>
+              <point x="0" y="0"/>
+            </outline>
+          </pages>
+          <dependencies>
+            <rotation degrees="0"/>
+            <size width="2479" height="3508"/>
+            <layoutType>auto-detect</layoutType>
+          </dependencies>
+        </params>
+      </image>
+      <image id="15">
+        <params mode="auto">
+          <pages type="single-uncut">
+            <outline>
+              <point x="0" y="0"/>
+              <point x="2479" y="0"/>
+              <point x="2479" y="3508"/>
+              <point x="0" y="3508"/>
+              <point x="0" y="0"/>
+            </outline>
+          </pages>
+          <dependencies>
+            <rotation degrees="0"/>
+            <size width="2479" height="3508"/>
+            <layoutType>auto-detect</layoutType>
+          </dependencies>
+        </params>
+      </image>
+      <image id="18">
+        <params mode="auto">
+          <pages type="single-uncut">
+            <outline>
+              <point x="0" y="0"/>
+              <point x="2479" y="0"/>
+              <point x="2479" y="3508"/>
+              <point x="0" y="3508"/>
+              <point x="0" y="0"/>
+            </outline>
+          </pages>
+          <dependencies>
+            <rotation degrees="0"/>
+            <size width="2479" height="3508"/>
+            <layoutType>auto-detect</layoutType>
+          </dependencies>
+        </params>
+      </image>
+      <image id="21">
+        <params mode="auto">
+          <pages type="single-uncut">
+            <outline>
+              <point x="0" y="0"/>
+              <point x="2479" y="0"/>
+              <point x="2479" y="3508"/>
+              <point x="0" y="3508"/>
+              <point x="0" y="0"/>
+            </outline>
+          </pages>
+          <dependencies>
+            <rotation degrees="0"/>
+            <size width="2479" height="3508"/>
+            <layoutType>auto-detect</layoutType>
+          </dependencies>
+        </params>
+      </image>
+      <image id="24">
+        <params mode="auto">
+          <pages type="single-uncut">
+            <outline>
+              <point x="0" y="0"/>
+              <point x="2479" y="0"/>
+              <point x="2479" y="3508"/>
+              <point x="0" y="3508"/>
+              <point x="0" y="0"/>
+            </outline>
+          </pages>
+          <dependencies>
+            <rotation degrees="0"/>
+            <size width="2479" height="3508"/>
+            <layoutType>auto-detect</layoutType>
+          </dependencies>
+        </params>
+      </image>
+      <image id="27">
+        <params mode="auto">
+          <pages type="single-uncut">
+            <outline>
+              <point x="0" y="0"/>
+              <point x="2479" y="0"/>
+              <point x="2479" y="3508"/>
+              <point x="0" y="3508"/>
+              <point x="0" y="0"/>
+            </outline>
+          </pages>
+          <dependencies>
+            <rotation degrees="0"/>
+            <size width="2479" height="3508"/>
+            <layoutType>auto-detect</layoutType>
+          </dependencies>
+        </params>
+      </image>
+      <image id="30">
+        <params mode="auto">
+          <pages type="single-uncut">
+            <outline>
+              <point x="0" y="0"/>
+              <point x="2479" y="0"/>
+              <point x="2479" y="3508"/>
+              <point x="0" y="3508"/>
+              <point x="0" y="0"/>
+            </outline>
+          </pages>
+          <dependencies>
+            <rotation degrees="0"/>
+            <size width="2479" height="3508"/>
+            <layoutType>auto-detect</layoutType>
+          </dependencies>
+        </params>
+      </image>
+      <image id="33">
+        <params mode="auto">
+          <pages type="single-uncut">
+            <outline>
+              <point x="0" y="0"/>
+              <point x="2479" y="0"/>
+              <point x="2479" y="3508"/>
+              <point x="0" y="3508"/>
+              <point x="0" y="0"/>
+            </outline>
+          </pages>
+          <dependencies>
+            <rotation degrees="0"/>
+            <size width="2479" height="3508"/>
+            <layoutType>auto-detect</layoutType>
+          </dependencies>
+        </params>
+      </image>
+      <image id="36">
+        <params mode="auto">
+          <pages type="single-uncut">
+            <outline>
+              <point x="0" y="0"/>
+              <point x="2479" y="0"/>
+              <point x="2479" y="3508"/>
+              <point x="0" y="3508"/>
+              <point x="0" y="0"/>
+            </outline>
+          </pages>
+          <dependencies>
+            <rotation degrees="0"/>
+            <size width="2479" height="3508"/>
+            <layoutType>auto-detect</layoutType>
+          </dependencies>
+        </params>
+      </image>
+      <image id="39">
+        <params mode="auto">
+          <pages type="single-uncut">
+            <outline>
+              <point x="0" y="0"/>
+              <point x="2479" y="0"/>
+              <point x="2479" y="3508"/>
+              <point x="0" y="3508"/>
+              <point x="0" y="0"/>
+            </outline>
+          </pages>
+          <dependencies>
+            <rotation degrees="0"/>
+            <size width="2479" height="3508"/>
+            <layoutType>auto-detect</layoutType>
+          </dependencies>
+        </params>
+      </image>
+      <image id="42">
+        <params mode="auto">
+          <pages type="single-uncut">
+            <outline>
+              <point x="0" y="0"/>
+              <point x="2479" y="0"/>
+              <point x="2479" y="3508"/>
+              <point x="0" y="3508"/>
+              <point x="0" y="0"/>
+            </outline>
+          </pages>
+          <dependencies>
+            <rotation degrees="0"/>
+            <size width="2479" height="3508"/>
+            <layoutType>auto-detect</layoutType>
+          </dependencies>
+        </params>
+      </image>
+      <image id="45">
+        <params mode="auto">
+          <pages type="single-uncut">
+            <outline>
+              <point x="0" y="0"/>
+              <point x="2479" y="0"/>
+              <point x="2479" y="3508"/>
+              <point x="0" y="3508"/>
+              <point x="0" y="0"/>
+            </outline>
+          </pages>
+          <dependencies>
+            <rotation degrees="0"/>
+            <size width="2479" height="3508"/>
+            <layoutType>auto-detect</layoutType>
+          </dependencies>
+        </params>
+      </image>
+      <image id="48">
+        <params mode="auto">
+          <pages type="single-uncut">
+            <outline>
+              <point x="0" y="0"/>
+              <point x="2479" y="0"/>
+              <point x="2479" y="3508"/>
+              <point x="0" y="3508"/>
+              <point x="0" y="0"/>
+            </outline>
+          </pages>
+          <dependencies>
+            <rotation degrees="0"/>
+            <size width="2479" height="3508"/>
+            <layoutType>auto-detect</layoutType>
+          </dependencies>
+        </params>
+      </image>
+      <image id="51">
+        <params mode="auto">
+          <pages type="single-uncut">
+            <outline>
+              <point x="0" y="0"/>
+              <point x="2479" y="0"/>
+              <point x="2479" y="3508"/>
+              <point x="0" y="3508"/>
+              <point x="0" y="0"/>
+            </outline>
+          </pages>
+          <dependencies>
+            <rotation degrees="0"/>
+            <size width="2479" height="3508"/>
+            <layoutType>auto-detect</layoutType>
+          </dependencies>
+        </params>
+      </image>
+      <image id="54">
+        <params mode="auto">
+          <pages type="single-uncut">
+            <outline>
+              <point x="0" y="0"/>
+              <point x="2479" y="0"/>
+              <point x="2479" y="3508"/>
+              <point x="0" y="3508"/>
+              <point x="0" y="0"/>
+            </outline>
+          </pages>
+          <dependencies>
+            <rotation degrees="0"/>
+            <size width="2479" height="3508"/>
+            <layoutType>auto-detect</layoutType>
+          </dependencies>
+        </params>
+      </image>
+      <image id="57">
+        <params mode="auto">
+          <pages type="single-uncut">
+            <outline>
+              <point x="0" y="0"/>
+              <point x="2479" y="0"/>
+              <point x="2479" y="3508"/>
+              <point x="0" y="3508"/>
+              <point x="0" y="0"/>
+            </outline>
+          </pages>
+          <dependencies>
+            <rotation degrees="0"/>
+            <size width="2479" height="3508"/>
+            <layoutType>auto-detect</layoutType>
+          </dependencies>
+        </params>
+      </image>
+      <image id="60">
+        <params mode="auto">
+          <pages type="single-uncut">
+            <outline>
+              <point x="0" y="0"/>
+              <point x="2479" y="0"/>
+              <point x="2479" y="3508"/>
+              <point x="0" y="3508"/>
+              <point x="0" y="0"/>
+            </outline>
+          </pages>
+          <dependencies>
+            <rotation degrees="0"/>
+            <size width="2479" height="3508"/>
+            <layoutType>auto-detect</layoutType>
+          </dependencies>
+        </params>
+      </image>
+      <image id="63">
+        <params mode="auto">
+          <pages type="single-uncut">
+            <outline>
+              <point x="0" y="0"/>
+              <point x="2479" y="0"/>
+              <point x="2479" y="3508"/>
+              <point x="0" y="3508"/>
+              <point x="0" y="0"/>
+            </outline>
+          </pages>
+          <dependencies>
+            <rotation degrees="0"/>
+            <size width="2479" height="3508"/>
+            <layoutType>auto-detect</layoutType>
+          </dependencies>
+        </params>
+      </image>
+      <image id="66">
+        <params mode="auto">
+          <pages type="single-uncut">
+            <outline>
+              <point x="0" y="0"/>
+              <point x="2479" y="0"/>
+              <point x="2479" y="3508"/>
+              <point x="0" y="3508"/>
+              <point x="0" y="0"/>
+            </outline>
+          </pages>
+          <dependencies>
+            <rotation degrees="0"/>
+            <size width="2479" height="3508"/>
+            <layoutType>auto-detect</layoutType>
+          </dependencies>
+        </params>
+      </image>
+      <image id="69">
+        <params mode="auto">
+          <pages type="single-uncut">
+            <outline>
+              <point x="0" y="0"/>
+              <point x="2479" y="0"/>
+              <point x="2479" y="3508"/>
+              <point x="0" y="3508"/>
+              <point x="0" y="0"/>
+            </outline>
+          </pages>
+          <dependencies>
+            <rotation degrees="0"/>
+            <size width="2479" height="3508"/>
+            <layoutType>auto-detect</layoutType>
+          </dependencies>
+        </params>
+      </image>
+      <image id="72">
+        <params mode="auto">
+          <pages type="single-uncut">
+            <outline>
+              <point x="0" y="0"/>
+              <point x="2479" y="0"/>
+              <point x="2479" y="3508"/>
+              <point x="0" y="3508"/>
+              <point x="0" y="0"/>
+            </outline>
+          </pages>
+          <dependencies>
+            <rotation degrees="0"/>
+            <size width="2479" height="3508"/>
+            <layoutType>auto-detect</layoutType>
+          </dependencies>
+        </params>
+      </image>
+      <image id="75">
+        <params mode="auto">
+          <pages type="single-uncut">
+            <outline>
+              <point x="0" y="0"/>
+              <point x="2479" y="0"/>
+              <point x="2479" y="3508"/>
+              <point x="0" y="3508"/>
+              <point x="0" y="0"/>
+            </outline>
+          </pages>
+          <dependencies>
+            <rotation degrees="0"/>
+            <size width="2479" height="3508"/>
+            <layoutType>auto-detect</layoutType>
+          </dependencies>
+        </params>
+      </image>
+    </page-split>
+    <deskew>
+      <page id="4">
+        <params mode="auto" angle="0.1875">
+          <dependencies>
+            <rotation degrees="0"/>
+            <page-outline>
+              <point x="0" y="0"/>
+              <point x="2479" y="0"/>
+              <point x="2479" y="3508"/>
+              <point x="0" y="3508"/>
+              <point x="0" y="0"/>
+            </page-outline>
+          </dependencies>
+        </params>
+      </page>
+      <page id="7">
+        <params mode="auto" angle="-0.125">
+          <dependencies>
+            <rotation degrees="0"/>
+            <page-outline>
+              <point x="0" y="0"/>
+              <point x="2479" y="0"/>
+              <point x="2479" y="3508"/>
+              <point x="0" y="3508"/>
+              <point x="0" y="0"/>
+            </page-outline>
+          </dependencies>
+        </params>
+      </page>
+      <page id="10">
+        <params mode="auto" angle="0.375">
+          <dependencies>
+            <rotation degrees="0"/>
+            <page-outline>
+              <point x="0" y="0"/>
+              <point x="2479" y="0"/>
+              <point x="2479" y="3508"/>
+              <point x="0" y="3508"/>
+              <point x="0" y="0"/>
+            </page-outline>
+          </dependencies>
+        </params>
+      </page>
+      <page id="13">
+        <params mode="auto" angle="-0.125">
+          <dependencies>
+            <rotation degrees="0"/>
+            <page-outline>
+              <point x="0" y="0"/>
+              <point x="2479" y="0"/>
+              <point x="2479" y="3508"/>
+              <point x="0" y="3508"/>
+              <point x="0" y="0"/>
+            </page-outline>
+          </dependencies>
+        </params>
+      </page>
+      <page id="16">
+        <params mode="auto" angle="0">
+          <dependencies>
+            <rotation degrees="0"/>
+            <page-outline>
+              <point x="0" y="0"/>
+              <point x="2479" y="0"/>
+              <point x="2479" y="3508"/>
+              <point x="0" y="3508"/>
+              <point x="0" y="0"/>
+            </page-outline>
+          </dependencies>
+        </params>
+      </page>
+      <page id="19">
+        <params mode="auto" angle="0.1875">
+          <dependencies>
+            <rotation degrees="0"/>
+            <page-outline>
+              <point x="0" y="0"/>
+              <point x="2479" y="0"/>
+              <point x="2479" y="3508"/>
+              <point x="0" y="3508"/>
+              <point x="0" y="0"/>
+            </page-outline>
+          </dependencies>
+        </params>
+      </page>
+      <page id="22">
+        <params mode="auto" angle="-0.0625">
+          <dependencies>
+            <rotation degrees="0"/>
+            <page-outline>
+              <point x="0" y="0"/>
+              <point x="2479" y="0"/>
+              <point x="2479" y="3508"/>
+              <point x="0" y="3508"/>
+              <point x="0" y="0"/>
+            </page-outline>
+          </dependencies>
+        </params>
+      </page>
+      <page id="25">
+        <params mode="auto" angle="0.125">
+          <dependencies>
+            <rotation degrees="0"/>
+            <page-outline>
+              <point x="0" y="0"/>
+              <point x="2479" y="0"/>
+              <point x="2479" y="3508"/>
+              <point x="0" y="3508"/>
+              <point x="0" y="0"/>
+            </page-outline>
+          </dependencies>
+        </params>
+      </page>
+      <page id="28">
+        <params mode="auto" angle="0">
+          <dependencies>
+            <rotation degrees="0"/>
+            <page-outline>
+              <point x="0" y="0"/>
+              <point x="2479" y="0"/>
+              <point x="2479" y="3508"/>
+              <point x="0" y="3508"/>
+              <point x="0" y="0"/>
+            </page-outline>
+          </dependencies>
+        </params>
+      </page>
+      <page id="31">
+        <params mode="auto" angle="0.1875">
+          <dependencies>
+            <rotation degrees="0"/>
+            <page-outline>
+              <point x="0" y="0"/>
+              <point x="2479" y="0"/>
+              <point x="2479" y="3508"/>
+              <point x="0" y="3508"/>
+              <point x="0" y="0"/>
+            </page-outline>
+          </dependencies>
+        </params>
+      </page>
+      <page id="34">
+        <params mode="auto" angle="-0.125">
+          <dependencies>
+            <rotation degrees="0"/>
+            <page-outline>
+              <point x="0" y="0"/>
+              <point x="2479" y="0"/>
+              <point x="2479" y="3508"/>
+              <point x="0" y="3508"/>
+              <point x="0" y="0"/>
+            </page-outline>
+          </dependencies>
+        </params>
+      </page>
+      <page id="37">
+        <params mode="auto" angle="0.1875">
+          <dependencies>
+            <rotation degrees="0"/>
+            <page-outline>
+              <point x="0" y="0"/>
+              <point x="2479" y="0"/>
+              <point x="2479" y="3508"/>
+              <point x="0" y="3508"/>
+              <point x="0" y="0"/>
+            </page-outline>
+          </dependencies>
+        </params>
+      </page>
+      <page id="40">
+        <params mode="auto" angle="-0.125">
+          <dependencies>
+            <rotation degrees="0"/>
+            <page-outline>
+              <point x="0" y="0"/>
+              <point x="2479" y="0"/>
+              <point x="2479" y="3508"/>
+              <point x="0" y="3508"/>
+              <point x="0" y="0"/>
+            </page-outline>
+          </dependencies>
+        </params>
+      </page>
+      <page id="43">
+        <params mode="auto" angle="0.1875">
+          <dependencies>
+            <rotation degrees="0"/>
+            <page-outline>
+              <point x="0" y="0"/>
+              <point x="2479" y="0"/>
+              <point x="2479" y="3508"/>
+              <point x="0" y="3508"/>
+              <point x="0" y="0"/>
+            </page-outline>
+          </dependencies>
+        </params>
+      </page>
+      <page id="46">
+        <params mode="auto" angle="0">
+          <dependencies>
+            <rotation degrees="0"/>
+            <page-outline>
+              <point x="0" y="0"/>
+              <point x="2479" y="0"/>
+              <point x="2479" y="3508"/>
+              <point x="0" y="3508"/>
+              <point x="0" y="0"/>
+            </page-outline>
+          </dependencies>
+        </params>
+      </page>
+      <page id="49">
+        <params mode="auto" angle="0">
+          <dependencies>
+            <rotation degrees="0"/>
+            <page-outline>
+              <point x="0" y="0"/>
+              <point x="2479" y="0"/>
+              <point x="2479" y="3508"/>
+              <point x="0" y="3508"/>
+              <point x="0" y="0"/>
+            </page-outline>
+          </dependencies>
+        </params>
+      </page>
+      <page id="52">
+        <params mode="auto" angle="0.125">
+          <dependencies>
+            <rotation degrees="0"/>
+            <page-outline>
+              <point x="0" y="0"/>
+              <point x="2479" y="0"/>
+              <point x="2479" y="3508"/>
+              <point x="0" y="3508"/>
+              <point x="0" y="0"/>
+            </page-outline>
+          </dependencies>
+        </params>
+      </page>
+      <page id="55">
+        <params mode="auto" angle="0">
+          <dependencies>
+            <rotation degrees="0"/>
+            <page-outline>
+              <point x="0" y="0"/>
+              <point x="2479" y="0"/>
+              <point x="2479" y="3508"/>
+              <point x="0" y="3508"/>
+              <point x="0" y="0"/>
+            </page-outline>
+          </dependencies>
+        </params>
+      </page>
+      <page id="58">
+        <params mode="auto" angle="0">
+          <dependencies>
+            <rotation degrees="0"/>
+            <page-outline>
+              <point x="0" y="0"/>
+              <point x="2479" y="0"/>
+              <point x="2479" y="3508"/>
+              <point x="0" y="3508"/>
+              <point x="0" y="0"/>
+            </page-outline>
+          </dependencies>
+        </params>
+      </page>
+      <page id="61">
+        <params mode="auto" angle="-0.0625">
+          <dependencies>
+            <rotation degrees="0"/>
+            <page-outline>
+              <point x="0" y="0"/>
+              <point x="2479" y="0"/>
+              <point x="2479" y="3508"/>
+              <point x="0" y="3508"/>
+              <point x="0" y="0"/>
+            </page-outline>
+          </dependencies>
+        </params>
+      </page>
+      <page id="64">
+        <params mode="auto" angle="0.25">
+          <dependencies>
+            <rotation degrees="0"/>
+            <page-outline>
+              <point x="0" y="0"/>
+              <point x="2479" y="0"/>
+              <point x="2479" y="3508"/>
+              <point x="0" y="3508"/>
+              <point x="0" y="0"/>
+            </page-outline>
+          </dependencies>
+        </params>
+      </page>
+      <page id="67">
+        <params mode="auto" angle="0">
+          <dependencies>
+            <rotation degrees="0"/>
+            <page-outline>
+              <point x="0" y="0"/>
+              <point x="2479" y="0"/>
+              <point x="2479" y="3508"/>
+              <point x="0" y="3508"/>
+              <point x="0" y="0"/>
+            </page-outline>
+          </dependencies>
+        </params>
+      </page>
+      <page id="70">
+        <params mode="auto" angle="0">
+          <dependencies>
+            <rotation degrees="0"/>
+            <page-outline>
+              <point x="0" y="0"/>
+              <point x="2479" y="0"/>
+              <point x="2479" y="3508"/>
+              <point x="0" y="3508"/>
+              <point x="0" y="0"/>
+            </page-outline>
+          </dependencies>
+        </params>
+      </page>
+      <page id="73">
+        <params mode="auto" angle="-0.0625">
+          <dependencies>
+            <rotation degrees="0"/>
+            <page-outline>
+              <point x="0" y="0"/>
+              <point x="2479" y="0"/>
+              <point x="2479" y="3508"/>
+              <point x="0" y="3508"/>
+              <point x="0" y="0"/>
+            </page-outline>
+          </dependencies>
+        </params>
+      </page>
+      <page id="76">
+        <params mode="auto" angle="0.125">
+          <dependencies>
+            <rotation degrees="0"/>
+            <page-outline>
+              <point x="0" y="0"/>
+              <point x="2479" y="0"/>
+              <point x="2479" y="3508"/>
+              <point x="0" y="3508"/>
+              <point x="0" y="0"/>
+            </page-outline>
+          </dependencies>
+        </params>
+      </page>
+    </deskew>
+    <select-content>
+      <page id="4">
+        <params mode="auto">
+          <content-rect width="1748" x="70" y="674" height="2060"/>
+          <content-size-mm width="147.9973333333334" height="174.4133333333334"/>
+          <dependencies>
+            <rotated-page-outline>
+              <point x="11.4798826648954" y="0"/>
+              <point x="2490.466608615701" y="8.112494049679505"/>
+              <point x="2478.986725950806" y="3516.093710118831"/>
+              <point x="0" y="3507.981216069151"/>
+              <point x="11.4798826648954" y="0"/>
+            </rotated-page-outline>
+          </dependencies>
+        </params>
+      </page>
+      <page id="7">
+        <params mode="auto">
+          <content-rect width="1548" x="678" y="384" height="2330"/>
+          <content-size-mm width="131.064" height="197.2733333333333"/>
+          <dependencies>
+            <rotated-page-outline>
+              <point x="0" y="5.408334729320852"/>
+              <point x="2478.994100419655" y="0"/>
+              <point x="2486.647363118509" y="3507.99165158215"/>
+              <point x="7.653262698853388" y="3513.399986311471"/>
+              <point x="0" y="5.408334729320852"/>
+            </rotated-page-outline>
+          </dependencies>
+        </params>
+      </page>
+      <page id="10">
+        <params mode="auto">
+          <content-rect width="1312" x="514" y="394" height="2334"/>
+          <content-size-mm width="111.0826666666667" height="197.612"/>
+          <dependencies>
+            <rotated-page-outline>
+              <point x="22.95964238947032" y="0"/>
+              <point x="2501.906546334847" y="16.22490122106526"/>
+              <point x="2478.946903945377" y="3524.149765698831"/>
+              <point x="0" y="3507.924864477765"/>
+              <point x="22.95964238947032" y="0"/>
+            </rotated-page-outline>
+          </dependencies>
+        </params>
+      </page>
+      <page id="13">
+        <params mode="auto">
+          <content-rect width="1536" x="286" y="382" height="2418"/>
+          <content-size-mm width="130.048" height="204.724"/>
+          <dependencies>
+            <rotated-page-outline>
+              <point x="0" y="5.408334729320852"/>
+              <point x="2478.994100419655" y="0"/>
+              <point x="2486.647363118509" y="3507.99165158215"/>
+              <point x="7.653262698853388" y="3513.399986311471"/>
+              <point x="0" y="5.408334729320852"/>
+            </rotated-page-outline>
+          </dependencies>
+        </params>
+      </page>
+      <page id="16">
+        <params mode="auto">
+          <content-rect width="1272" x="692" y="380" height="2336"/>
+          <content-size-mm width="107.696" height="197.7813333333334"/>
+          <dependencies>
+            <rotated-page-outline>
+              <point x="0" y="0"/>
+              <point x="2479" y="0"/>
+              <point x="2479" y="3508"/>
+              <point x="0" y="3508"/>
+              <point x="0" y="0"/>
+            </rotated-page-outline>
+          </dependencies>
+        </params>
+      </page>
+      <page id="19">
+        <params mode="auto">
+          <content-rect width="1508" x="308" y="414" height="2322"/>
+          <content-size-mm width="127.6773333333334" height="196.596"/>
+          <dependencies>
+            <rotated-page-outline>
+              <point x="11.4798826648954" y="0"/>
+              <point x="2490.466608615701" y="8.112494049679505"/>
+              <point x="2478.986725950806" y="3516.093710118831"/>
+              <point x="0" y="3507.981216069151"/>
+              <point x="11.4798826648954" y="0"/>
+            </rotated-page-outline>
+          </dependencies>
+        </params>
+      </page>
+      <page id="22">
+        <params mode="auto">
+          <content-rect width="1524" x="696.0000000000001" y="400.0000000000001" height="2364"/>
+          <content-size-mm width="129.032" height="200.1520000000001"/>
+          <dependencies>
+            <rotated-page-outline>
+              <point x="0" y="2.704168973521547"/>
+              <point x="2478.998525104475" y="0"/>
+              <point x="2482.82515873058" y="3507.997912894917"/>
+              <point x="3.826633626104714" y="3510.702081868438"/>
+              <point x="0" y="2.704168973521547"/>
+            </rotated-page-outline>
+          </dependencies>
+        </params>
+      </page>
+      <page id="25">
+        <params mode="auto">
+          <content-rect width="1532" x="292" y="446" height="2322"/>
+          <content-size-mm width="129.7093333333333" height="196.596"/>
+          <dependencies>
+            <rotated-page-outline>
+              <point x="7.653262698853388" y="0"/>
+              <point x="2486.647363118509" y="5.408334729320852"/>
+              <point x="2478.994100419655" y="3513.399986311471"/>
+              <point x="0" y="3507.99165158215"/>
+              <point x="7.653262698853388" y="0"/>
+            </rotated-page-outline>
+          </dependencies>
+        </params>
+      </page>
+      <page id="28">
+        <params mode="auto">
+          <content-rect width="1556" x="672" y="428" height="2354"/>
+          <content-size-mm width="131.7413333333333" height="199.3053333333333"/>
+          <dependencies>
+            <rotated-page-outline>
+              <point x="0" y="0"/>
+              <point x="2479" y="0"/>
+              <point x="2479" y="3508"/>
+              <point x="0" y="3508"/>
+              <point x="0" y="0"/>
+            </rotated-page-outline>
+          </dependencies>
+        </params>
+      </page>
+      <page id="31">
+        <params mode="auto">
+          <content-rect width="1532" x="284" y="432" height="2368"/>
+          <content-size-mm width="129.7093333333333" height="200.4906666666667"/>
+          <dependencies>
+            <rotated-page-outline>
+              <point x="11.4798826648954" y="0"/>
+              <point x="2490.466608615701" y="8.112494049679505"/>
+              <point x="2478.986725950806" y="3516.093710118831"/>
+              <point x="0" y="3507.981216069151"/>
+              <point x="11.4798826648954" y="0"/>
+            </rotated-page-outline>
+          </dependencies>
+        </params>
+      </page>
+      <page id="34">
+        <params mode="auto">
+          <content-rect width="1502" x="716" y="420" height="2128"/>
+          <content-size-mm width="127.1693333333333" height="180.1706666666666"/>
+          <dependencies>
+            <rotated-page-outline>
+              <point x="0" y="5.408334729320852"/>
+              <point x="2478.994100419655" y="0"/>
+              <point x="2486.647363118509" y="3507.99165158215"/>
+              <point x="7.653262698853388" y="3513.399986311471"/>
+              <point x="0" y="5.408334729320852"/>
+            </rotated-page-outline>
+          </dependencies>
+        </params>
+      </page>
+      <page id="37">
+        <params mode="manual">
+          <content-rect width="1540" x="300" y="1826.018172302566" height="971.981827697434"/>
+          <content-size-mm width="130.3866666666667" height="82.2944614117161"/>
+          <dependencies>
+            <rotated-page-outline>
+              <point x="11.4798826648954" y="0"/>
+              <point x="2490.466608615701" y="8.112494049679505"/>
+              <point x="2478.986725950806" y="3516.093710118831"/>
+              <point x="0" y="3507.981216069151"/>
+              <point x="11.4798826648954" y="0"/>
+            </rotated-page-outline>
+          </dependencies>
+        </params>
+      </page>
+      <page id="40">
+        <params mode="auto">
+          <content-rect width="1524" x="670" y="436" height="2364"/>
+          <content-size-mm width="129.032" height="200.152"/>
+          <dependencies>
+            <rotated-page-outline>
+              <point x="0" y="5.408334729320852"/>
+              <point x="2478.994100419655" y="0"/>
+              <point x="2486.647363118509" y="3507.99165158215"/>
+              <point x="7.653262698853388" y="3513.399986311471"/>
+              <point x="0" y="5.408334729320852"/>
+            </rotated-page-outline>
+          </dependencies>
+        </params>
+      </page>
+      <page id="43">
+        <params mode="auto">
+          <content-rect width="1522" x="296" y="432" height="2348"/>
+          <content-size-mm width="128.8626666666667" height="198.7973333333333"/>
+          <dependencies>
+            <rotated-page-outline>
+              <point x="11.4798826648954" y="0"/>
+              <point x="2490.466608615701" y="8.112494049679505"/>
+              <point x="2478.986725950806" y="3516.093710118831"/>
+              <point x="0" y="3507.981216069151"/>
+              <point x="11.4798826648954" y="0"/>
+            </rotated-page-outline>
+          </dependencies>
+        </params>
+      </page>
+      <page id="46">
+        <params mode="auto">
+          <content-rect width="1528" x="680" y="416" height="2426"/>
+          <content-size-mm width="129.3706666666667" height="205.4013333333334"/>
+          <dependencies>
+            <rotated-page-outline>
+              <point x="0" y="0"/>
+              <point x="2479" y="0"/>
+              <point x="2479" y="3508"/>
+              <point x="0" y="3508"/>
+              <point x="0" y="0"/>
+            </rotated-page-outline>
+          </dependencies>
+        </params>
+      </page>
+      <page id="49">
+        <params mode="auto">
+          <content-rect width="1534" x="294" y="392" height="2408"/>
+          <content-size-mm width="129.8786666666667" height="203.8773333333333"/>
+          <dependencies>
+            <rotated-page-outline>
+              <point x="0" y="0"/>
+              <point x="2479" y="0"/>
+              <point x="2479" y="3508"/>
+              <point x="0" y="3508"/>
+              <point x="0" y="0"/>
+            </rotated-page-outline>
+          </dependencies>
+        </params>
+      </page>
+      <page id="52">
+        <params mode="auto">
+          <content-rect width="1536" x="694" y="372" height="2416"/>
+          <content-size-mm width="130.048" height="204.5546666666666"/>
+          <dependencies>
+            <rotated-page-outline>
+              <point x="7.653262698853388" y="0"/>
+              <point x="2486.647363118509" y="5.408334729320852"/>
+              <point x="2478.994100419655" y="3513.399986311471"/>
+              <point x="0" y="3507.99165158215"/>
+              <point x="7.653262698853388" y="0"/>
+            </rotated-page-outline>
+          </dependencies>
+        </params>
+      </page>
+      <page id="55">
+        <params mode="auto">
+          <content-rect width="1532" x="310" y="360" height="2426"/>
+          <content-size-mm width="129.7093333333333" height="205.4013333333334"/>
+          <dependencies>
+            <rotated-page-outline>
+              <point x="0" y="0"/>
+              <point x="2479" y="0"/>
+              <point x="2479" y="3508"/>
+              <point x="0" y="3508"/>
+              <point x="0" y="0"/>
+            </rotated-page-outline>
+          </dependencies>
+        </params>
+      </page>
+      <page id="58">
+        <params mode="auto">
+          <content-rect width="1530" x="668" y="358" height="2440"/>
+          <content-size-mm width="129.54" height="206.5866666666667"/>
+          <dependencies>
+            <rotated-page-outline>
+              <point x="0" y="0"/>
+              <point x="2479" y="0"/>
+              <point x="2479" y="3508"/>
+              <point x="0" y="3508"/>
+              <point x="0" y="0"/>
+            </rotated-page-outline>
+          </dependencies>
+        </params>
+      </page>
+      <page id="61">
+        <params mode="auto">
+          <content-rect width="1520" x="300.0000000000001" y="404.0000000000001" height="2422"/>
+          <content-size-mm width="128.6933333333334" height="205.0626666666667"/>
+          <dependencies>
+            <rotated-page-outline>
+              <point x="0" y="2.704168973521547"/>
+              <point x="2478.998525104475" y="0"/>
+              <point x="2482.82515873058" y="3507.997912894917"/>
+              <point x="3.826633626104714" y="3510.702081868438"/>
+              <point x="0" y="2.704168973521547"/>
+            </rotated-page-outline>
+          </dependencies>
+        </params>
+      </page>
+      <page id="64">
+        <params mode="auto">
+          <content-rect width="1538" x="668" y="398" height="2382"/>
+          <content-size-mm width="130.2173333333333" height="201.676"/>
+          <dependencies>
+            <rotated-page-outline>
+              <point x="15.30648897089097" y="0"/>
+              <point x="2494.282890677592" y="10.81664371688675"/>
+              <point x="2478.976401706701" y="3518.783250085223"/>
+              <point x="0" y="3507.966606368337"/>
+              <point x="15.30648897089097" y="0"/>
+            </rotated-page-outline>
+          </dependencies>
+        </params>
+      </page>
+      <page id="67">
+        <params mode="auto">
+          <content-rect width="1550" x="284" y="420" height="2362"/>
+          <content-size-mm width="131.2333333333333" height="199.9826666666667"/>
+          <dependencies>
+            <rotated-page-outline>
+              <point x="0" y="0"/>
+              <point x="2479" y="0"/>
+              <point x="2479" y="3508"/>
+              <point x="0" y="3508"/>
+              <point x="0" y="0"/>
+            </rotated-page-outline>
+          </dependencies>
+        </params>
+      </page>
+      <page id="70">
+        <params mode="auto">
+          <content-rect width="1546" x="274" y="396" height="2376"/>
+          <content-size-mm width="130.8946666666667" height="201.168"/>
+          <dependencies>
+            <rotated-page-outline>
+              <point x="0" y="0"/>
+              <point x="2479" y="0"/>
+              <point x="2479" y="3508"/>
+              <point x="0" y="3508"/>
+              <point x="0" y="0"/>
+            </rotated-page-outline>
+          </dependencies>
+        </params>
+      </page>
+      <page id="73">
+        <params mode="auto">
+          <content-rect width="1544" x="684.0000000000001" y="402.0000000000001" height="2354"/>
+          <content-size-mm width="130.7253333333334" height="199.3053333333334"/>
+          <dependencies>
+            <rotated-page-outline>
+              <point x="0" y="2.704168973521547"/>
+              <point x="2478.998525104475" y="0"/>
+              <point x="2482.82515873058" y="3507.997912894917"/>
+              <point x="3.826633626104714" y="3510.702081868438"/>
+              <point x="0" y="2.704168973521547"/>
+            </rotated-page-outline>
+          </dependencies>
+        </params>
+      </page>
+      <page id="76">
+        <params mode="auto">
+          <content-rect width="1522" x="316" y="406" height="2346"/>
+          <content-size-mm width="128.8626666666667" height="198.628"/>
+          <dependencies>
+            <rotated-page-outline>
+              <point x="7.653262698853388" y="0"/>
+              <point x="2486.647363118509" y="5.408334729320852"/>
+              <point x="2478.994100419655" y="3513.399986311471"/>
+              <point x="0" y="3507.99165158215"/>
+              <point x="7.653262698853388" y="0"/>
+            </rotated-page-outline>
+          </dependencies>
+        </params>
+      </page>
+    </select-content>
+    <page-layout>
+      <page id="4">
+        <params>
+          <hardMarginsMM right="10" left="10" bottom="5" top="5"/>
+          <contentSizeMM width="147.9973333333334" height="174.4133333333334"/>
+          <alignment vert="top" hor="hcenter" null="0"/>
+        </params>
+      </page>
+      <page id="7">
+        <params>
+          <hardMarginsMM right="10" left="10" bottom="5" top="5"/>
+          <contentSizeMM width="131.064" height="197.2733333333333"/>
+          <alignment vert="top" hor="hcenter" null="0"/>
+        </params>
+      </page>
+      <page id="10">
+        <params>
+          <hardMarginsMM right="10" left="10" bottom="5" top="5"/>
+          <contentSizeMM width="111.0826666666667" height="197.612"/>
+          <alignment vert="top" hor="hcenter" null="0"/>
+        </params>
+      </page>
+      <page id="13">
+        <params>
+          <hardMarginsMM right="10" left="10" bottom="5" top="5"/>
+          <contentSizeMM width="130.048" height="204.724"/>
+          <alignment vert="top" hor="hcenter" null="0"/>
+        </params>
+      </page>
+      <page id="16">
+        <params>
+          <hardMarginsMM right="10" left="10" bottom="5" top="5"/>
+          <contentSizeMM width="107.696" height="197.7813333333334"/>
+          <alignment vert="top" hor="hcenter" null="0"/>
+        </params>
+      </page>
+      <page id="19">
+        <params>
+          <hardMarginsMM right="10" left="10" bottom="5" top="5"/>
+          <contentSizeMM width="127.6773333333334" height="196.596"/>
+          <alignment vert="top" hor="hcenter" null="0"/>
+        </params>
+      </page>
+      <page id="22">
+        <params>
+          <hardMarginsMM right="10" left="10" bottom="5" top="5"/>
+          <contentSizeMM width="129.032" height="200.1520000000001"/>
+          <alignment vert="top" hor="hcenter" null="0"/>
+        </params>
+      </page>
+      <page id="25">
+        <params>
+          <hardMarginsMM right="10" left="10" bottom="5" top="5"/>
+          <contentSizeMM width="129.7093333333333" height="196.596"/>
+          <alignment vert="top" hor="hcenter" null="0"/>
+        </params>
+      </page>
+      <page id="28">
+        <params>
+          <hardMarginsMM right="10" left="10" bottom="5" top="5"/>
+          <contentSizeMM width="131.7413333333333" height="199.3053333333333"/>
+          <alignment vert="top" hor="hcenter" null="0"/>
+        </params>
+      </page>
+      <page id="31">
+        <params>
+          <hardMarginsMM right="10" left="10" bottom="5" top="5"/>
+          <contentSizeMM width="129.7093333333333" height="200.4906666666666"/>
+          <alignment vert="top" hor="hcenter" null="0"/>
+        </params>
+      </page>
+      <page id="34">
+        <params>
+          <hardMarginsMM right="10" left="10" bottom="5" top="5"/>
+          <contentSizeMM width="127.1693333333333" height="180.1706666666667"/>
+          <alignment vert="top" hor="hcenter" null="0"/>
+        </params>
+      </page>
+      <page id="37">
+        <params>
+          <hardMarginsMM right="10" left="10" bottom="5" top="5"/>
+          <contentSizeMM width="130.3866666666667" height="82.2944614117161"/>
+          <alignment vert="top" hor="hcenter" null="0"/>
+        </params>
+      </page>
+      <page id="40">
+        <params>
+          <hardMarginsMM right="10" left="10" bottom="5" top="5"/>
+          <contentSizeMM width="129.032" height="200.152"/>
+          <alignment vert="top" hor="hcenter" null="0"/>
+        </params>
+      </page>
+      <page id="43">
+        <params>
+          <hardMarginsMM right="10" left="10" bottom="5" top="5"/>
+          <contentSizeMM width="128.8626666666667" height="198.7973333333333"/>
+          <alignment vert="top" hor="hcenter" null="0"/>
+        </params>
+      </page>
+      <page id="46">
+        <params>
+          <hardMarginsMM right="10" left="10" bottom="5" top="5"/>
+          <contentSizeMM width="129.3706666666667" height="205.4013333333334"/>
+          <alignment vert="top" hor="hcenter" null="0"/>
+        </params>
+      </page>
+      <page id="49">
+        <params>
+          <hardMarginsMM right="10" left="10" bottom="5" top="5"/>
+          <contentSizeMM width="129.8786666666667" height="203.8773333333333"/>
+          <alignment vert="top" hor="hcenter" null="0"/>
+        </params>
+      </page>
+      <page id="52">
+        <params>
+          <hardMarginsMM right="10" left="10" bottom="5" top="5"/>
+          <contentSizeMM width="130.048" height="204.5546666666667"/>
+          <alignment vert="top" hor="hcenter" null="0"/>
+        </params>
+      </page>
+      <page id="55">
+        <params>
+          <hardMarginsMM right="10" left="10" bottom="5" top="5"/>
+          <contentSizeMM width="129.7093333333333" height="205.4013333333334"/>
+          <alignment vert="top" hor="hcenter" null="0"/>
+        </params>
+      </page>
+      <page id="58">
+        <params>
+          <hardMarginsMM right="10" left="10" bottom="5" top="5"/>
+          <contentSizeMM width="129.54" height="206.5866666666667"/>
+          <alignment vert="top" hor="hcenter" null="0"/>
+        </params>
+      </page>
+      <page id="61">
+        <params>
+          <hardMarginsMM right="10" left="10" bottom="5" top="5"/>
+          <contentSizeMM width="128.6933333333334" height="205.0626666666667"/>
+          <alignment vert="top" hor="hcenter" null="0"/>
+        </params>
+      </page>
+      <page id="64">
+        <params>
+          <hardMarginsMM right="10" left="10" bottom="5" top="5"/>
+          <contentSizeMM width="130.2173333333333" height="201.676"/>
+          <alignment vert="top" hor="hcenter" null="0"/>
+        </params>
+      </page>
+      <page id="67">
+        <params>
+          <hardMarginsMM right="10" left="10" bottom="5" top="5"/>
+          <contentSizeMM width="131.2333333333333" height="199.9826666666667"/>
+          <alignment vert="top" hor="hcenter" null="0"/>
+        </params>
+      </page>
+      <page id="70">
+        <params>
+          <hardMarginsMM right="10" left="10" bottom="5" top="5"/>
+          <contentSizeMM width="130.8946666666667" height="201.168"/>
+          <alignment vert="top" hor="hcenter" null="0"/>
+        </params>
+      </page>
+      <page id="73">
+        <params>
+          <hardMarginsMM right="10" left="10" bottom="5" top="5"/>
+          <contentSizeMM width="130.7253333333334" height="199.3053333333334"/>
+          <alignment vert="top" hor="hcenter" null="0"/>
+        </params>
+      </page>
+      <page id="76">
+        <params>
+          <hardMarginsMM right="10" left="10" bottom="5" top="5"/>
+          <contentSizeMM width="128.8626666666667" height="198.628"/>
+          <alignment vert="top" hor="hcenter" null="0"/>
+        </params>
+      </page>
+    </page-layout>
+    <output>
+      <page id="4">
+        <zones/>
+        <fill-zones/>
+        <params depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+          <dpi vertical="300" horizontal="300"/>
+          <color-params colorMode="bw">
+            <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+            <bw thresholdAdj="0"/>
+          </color-params>
+        </params>
+        <output-params>
+          <image depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+            <size width="1984" height="2558"/>
+            <content-rect width="1748" x="118" y="59" height="2060"/>
+            <partial-xform>
+              <m11>0.9999946454016965</m11>
+              <m12>0.003272486506526626</m12>
+              <m21>-0.003272486506526626</m21>
+              <m22>0.9999946454016965</m22>
+            </partial-xform>
+            <dpi vertical="300" horizontal="300"/>
+            <color-params colorMode="bw">
+              <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+              <bw thresholdAdj="0"/>
+            </color-params>
+          </image>
+          <file size="88924" mtime="1511636764"/>
+          <speckles size="1634" mtime="1511636764"/>
+          <zones/>
+          <fill-zones/>
+        </output-params>
+      </page>
+      <page id="7">
+        <zones/>
+        <fill-zones/>
+        <params depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+          <dpi vertical="300" horizontal="300"/>
+          <color-params colorMode="bw">
+            <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+            <bw thresholdAdj="0"/>
+          </color-params>
+        </params>
+        <output-params>
+          <image depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+            <size width="1984" height="2558"/>
+            <content-rect width="1548" x="218" y="59" height="2330"/>
+            <partial-xform>
+              <m11>0.9999976201773518</m11>
+              <m12>-0.00218165983433677</m12>
+              <m21>0.00218165983433677</m21>
+              <m22>0.9999976201773518</m22>
+            </partial-xform>
+            <dpi vertical="300" horizontal="300"/>
+            <color-params colorMode="bw">
+              <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+              <bw thresholdAdj="0"/>
+            </color-params>
+          </image>
+          <file size="87666" mtime="1511636767"/>
+          <speckles size="2870" mtime="1511636767"/>
+          <zones/>
+          <fill-zones/>
+        </output-params>
+      </page>
+      <page id="10">
+        <zones/>
+        <fill-zones/>
+        <params depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+          <dpi vertical="300" horizontal="300"/>
+          <color-params colorMode="bw">
+            <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+            <bw thresholdAdj="0"/>
+          </color-params>
+        </params>
+        <output-params>
+          <image depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+            <size width="1984" height="2558"/>
+            <content-rect width="1312" x="336" y="59" height="2334"/>
+            <partial-xform>
+              <m11>0.9999785816641292</m11>
+              <m12>0.006544937967351859</m12>
+              <m21>-0.006544937967351859</m21>
+              <m22>0.9999785816641292</m22>
+            </partial-xform>
+            <dpi vertical="300" horizontal="300"/>
+            <color-params colorMode="bw">
+              <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+              <bw thresholdAdj="0"/>
+            </color-params>
+          </image>
+          <file size="64028" mtime="1511636770"/>
+          <speckles size="2120" mtime="1511636770"/>
+          <zones/>
+          <fill-zones/>
+        </output-params>
+      </page>
+      <page id="13">
+        <zones/>
+        <fill-zones/>
+        <params depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+          <dpi vertical="300" horizontal="300"/>
+          <color-params colorMode="bw">
+            <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+            <bw thresholdAdj="0"/>
+          </color-params>
+        </params>
+        <output-params>
+          <image depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+            <size width="1984" height="2558"/>
+            <content-rect width="1536" x="224" y="59" height="2418"/>
+            <partial-xform>
+              <m11>0.9999976201773518</m11>
+              <m12>-0.00218165983433677</m12>
+              <m21>0.00218165983433677</m21>
+              <m22>0.9999976201773518</m22>
+            </partial-xform>
+            <dpi vertical="300" horizontal="300"/>
+            <color-params colorMode="bw">
+              <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+              <bw thresholdAdj="0"/>
+            </color-params>
+          </image>
+          <file size="61462" mtime="1511636771"/>
+          <speckles size="1646" mtime="1511636771"/>
+          <zones/>
+          <fill-zones/>
+        </output-params>
+      </page>
+      <page id="16">
+        <zones/>
+        <fill-zones/>
+        <params depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+          <dpi vertical="300" horizontal="300"/>
+          <color-params colorMode="bw">
+            <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+            <bw thresholdAdj="0"/>
+          </color-params>
+        </params>
+        <output-params>
+          <image depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+            <size width="1984" height="2558"/>
+            <content-rect width="1272" x="356" y="59" height="2336"/>
+            <partial-xform>
+              <m11>1</m11>
+              <m12>0</m12>
+              <m21>0</m21>
+              <m22>1</m22>
+            </partial-xform>
+            <dpi vertical="300" horizontal="300"/>
+            <color-params colorMode="bw">
+              <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+              <bw thresholdAdj="0"/>
+            </color-params>
+          </image>
+          <file size="58006" mtime="1511636773"/>
+          <speckles size="2162" mtime="1511636773"/>
+          <zones/>
+          <fill-zones/>
+        </output-params>
+      </page>
+      <page id="19">
+        <zones/>
+        <fill-zones/>
+        <params depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+          <dpi vertical="300" horizontal="300"/>
+          <color-params colorMode="bw">
+            <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+            <bw thresholdAdj="0"/>
+          </color-params>
+        </params>
+        <output-params>
+          <image depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+            <size width="1984" height="2558"/>
+            <content-rect width="1508" x="238" y="59" height="2322"/>
+            <partial-xform>
+              <m11>0.9999946454016965</m11>
+              <m12>0.003272486506526626</m12>
+              <m21>-0.003272486506526626</m21>
+              <m22>0.9999946454016965</m22>
+            </partial-xform>
+            <dpi vertical="300" horizontal="300"/>
+            <color-params colorMode="bw">
+              <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+              <bw thresholdAdj="0"/>
+            </color-params>
+          </image>
+          <file size="73068" mtime="1511636774"/>
+          <speckles size="1646" mtime="1511636774"/>
+          <zones/>
+          <fill-zones/>
+        </output-params>
+      </page>
+      <page id="22">
+        <zones/>
+        <fill-zones/>
+        <params depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+          <dpi vertical="300" horizontal="300"/>
+          <color-params colorMode="bw">
+            <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+            <bw thresholdAdj="0"/>
+          </color-params>
+        </params>
+        <output-params>
+          <image depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+            <size width="1984" height="2558"/>
+            <content-rect width="1524" x="230" y="59" height="2364"/>
+            <partial-xform>
+              <m11>0.999999405044161</m11>
+              <m12>-0.0010908305661644</m12>
+              <m21>0.0010908305661644</m21>
+              <m22>0.999999405044161</m22>
+            </partial-xform>
+            <dpi vertical="300" horizontal="300"/>
+            <color-params colorMode="bw">
+              <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+              <bw thresholdAdj="0"/>
+            </color-params>
+          </image>
+          <file size="92954" mtime="1511636775"/>
+          <speckles size="1628" mtime="1511636775"/>
+          <zones/>
+          <fill-zones/>
+        </output-params>
+      </page>
+      <page id="25">
+        <zones/>
+        <fill-zones/>
+        <params depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+          <dpi vertical="300" horizontal="300"/>
+          <color-params colorMode="bw">
+            <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+            <bw thresholdAdj="0"/>
+          </color-params>
+        </params>
+        <output-params>
+          <image depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+            <size width="1984" height="2558"/>
+            <content-rect width="1532" x="226" y="59" height="2322"/>
+            <partial-xform>
+              <m11>0.9999976201773518</m11>
+              <m12>0.00218165983433677</m12>
+              <m21>-0.00218165983433677</m21>
+              <m22>0.9999976201773518</m22>
+            </partial-xform>
+            <dpi vertical="300" horizontal="300"/>
+            <color-params colorMode="bw">
+              <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+              <bw thresholdAdj="0"/>
+            </color-params>
+          </image>
+          <file size="97228" mtime="1511636777"/>
+          <speckles size="1610" mtime="1511636777"/>
+          <zones/>
+          <fill-zones/>
+        </output-params>
+      </page>
+      <page id="28">
+        <zones/>
+        <fill-zones/>
+        <params depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+          <dpi vertical="300" horizontal="300"/>
+          <color-params colorMode="bw">
+            <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+            <bw thresholdAdj="0"/>
+          </color-params>
+        </params>
+        <output-params>
+          <image depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+            <size width="1984" height="2558"/>
+            <content-rect width="1556" x="214" y="59" height="2354"/>
+            <partial-xform>
+              <m11>1</m11>
+              <m12>0</m12>
+              <m21>0</m21>
+              <m22>1</m22>
+            </partial-xform>
+            <dpi vertical="300" horizontal="300"/>
+            <color-params colorMode="bw">
+              <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+              <bw thresholdAdj="0"/>
+            </color-params>
+          </image>
+          <file size="85968" mtime="1511636778"/>
+          <speckles size="1638" mtime="1511636778"/>
+          <zones/>
+          <fill-zones/>
+        </output-params>
+      </page>
+      <page id="31">
+        <zones/>
+        <fill-zones/>
+        <params depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+          <dpi vertical="300" horizontal="300"/>
+          <color-params colorMode="bw">
+            <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+            <bw thresholdAdj="0"/>
+          </color-params>
+        </params>
+        <output-params>
+          <image depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+            <size width="1984" height="2558"/>
+            <content-rect width="1532" x="226" y="59" height="2368"/>
+            <partial-xform>
+              <m11>0.9999946454016965</m11>
+              <m12>0.003272486506526626</m12>
+              <m21>-0.003272486506526626</m21>
+              <m22>0.9999946454016965</m22>
+            </partial-xform>
+            <dpi vertical="300" horizontal="300"/>
+            <color-params colorMode="bw">
+              <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+              <bw thresholdAdj="0"/>
+            </color-params>
+          </image>
+          <file size="52286" mtime="1511636780"/>
+          <speckles size="1622" mtime="1511636780"/>
+          <zones/>
+          <fill-zones/>
+        </output-params>
+      </page>
+      <page id="34">
+        <zones/>
+        <fill-zones/>
+        <params depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+          <dpi vertical="300" horizontal="300"/>
+          <color-params colorMode="bw">
+            <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+            <bw thresholdAdj="0"/>
+          </color-params>
+        </params>
+        <output-params>
+          <image depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+            <size width="1984" height="2558"/>
+            <content-rect width="1502" x="241" y="59" height="2128"/>
+            <partial-xform>
+              <m11>0.9999976201773518</m11>
+              <m12>-0.00218165983433677</m12>
+              <m21>0.00218165983433677</m21>
+              <m22>0.9999976201773518</m22>
+            </partial-xform>
+            <dpi vertical="300" horizontal="300"/>
+            <color-params colorMode="bw">
+              <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+              <bw thresholdAdj="0"/>
+            </color-params>
+          </image>
+          <file size="48632" mtime="1511636781"/>
+          <speckles size="1660" mtime="1511636781"/>
+          <zones/>
+          <fill-zones/>
+        </output-params>
+      </page>
+      <page id="37">
+        <zones/>
+        <fill-zones/>
+        <params depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+          <dpi vertical="300" horizontal="300"/>
+          <color-params colorMode="bw">
+            <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+            <bw thresholdAdj="0"/>
+          </color-params>
+        </params>
+        <output-params>
+          <image depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+            <size width="1984" height="2558"/>
+            <content-rect width="1540" x="222" y="59" height="972"/>
+            <partial-xform>
+              <m11>0.9999946454016965</m11>
+              <m12>0.003272486506526626</m12>
+              <m21>-0.003272486506526626</m21>
+              <m22>0.9999946454016965</m22>
+            </partial-xform>
+            <dpi vertical="300" horizontal="300"/>
+            <color-params colorMode="bw">
+              <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+              <bw thresholdAdj="0"/>
+            </color-params>
+          </image>
+          <file size="32374" mtime="1511636735"/>
+          <speckles size="1620" mtime="1511636735"/>
+          <zones/>
+          <fill-zones/>
+        </output-params>
+      </page>
+      <page id="40">
+        <zones/>
+        <fill-zones/>
+        <params depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+          <dpi vertical="300" horizontal="300"/>
+          <color-params colorMode="bw">
+            <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+            <bw thresholdAdj="0"/>
+          </color-params>
+        </params>
+        <output-params>
+          <image depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+            <size width="1984" height="2558"/>
+            <content-rect width="1524" x="230" y="59" height="2364"/>
+            <partial-xform>
+              <m11>0.9999976201773518</m11>
+              <m12>-0.00218165983433677</m12>
+              <m21>0.00218165983433677</m21>
+              <m22>0.9999976201773518</m22>
+            </partial-xform>
+            <dpi vertical="300" horizontal="300"/>
+            <color-params colorMode="bw">
+              <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+              <bw thresholdAdj="0"/>
+            </color-params>
+          </image>
+          <file size="83536" mtime="1511636744"/>
+          <speckles size="1624" mtime="1511636744"/>
+          <zones/>
+          <fill-zones/>
+        </output-params>
+      </page>
+      <page id="43">
+        <zones/>
+        <fill-zones/>
+        <params depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+          <dpi vertical="300" horizontal="300"/>
+          <color-params colorMode="bw">
+            <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+            <bw thresholdAdj="0"/>
+          </color-params>
+        </params>
+        <output-params>
+          <image depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+            <size width="1984" height="2558"/>
+            <content-rect width="1522" x="231" y="59" height="2348"/>
+            <partial-xform>
+              <m11>0.9999946454016965</m11>
+              <m12>0.003272486506526626</m12>
+              <m21>-0.003272486506526626</m21>
+              <m22>0.9999946454016965</m22>
+            </partial-xform>
+            <dpi vertical="300" horizontal="300"/>
+            <color-params colorMode="bw">
+              <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+              <bw thresholdAdj="0"/>
+            </color-params>
+          </image>
+          <file size="65394" mtime="1511636746"/>
+          <speckles size="1660" mtime="1511636746"/>
+          <zones/>
+          <fill-zones/>
+        </output-params>
+      </page>
+      <page id="46">
+        <zones/>
+        <fill-zones/>
+        <params depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+          <dpi vertical="300" horizontal="300"/>
+          <color-params colorMode="bw">
+            <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+            <bw thresholdAdj="0"/>
+          </color-params>
+        </params>
+        <output-params>
+          <image depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+            <size width="1984" height="2558"/>
+            <content-rect width="1528" x="228" y="59" height="2426"/>
+            <partial-xform>
+              <m11>1</m11>
+              <m12>0</m12>
+              <m21>0</m21>
+              <m22>1</m22>
+            </partial-xform>
+            <dpi vertical="300" horizontal="300"/>
+            <color-params colorMode="bw">
+              <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+              <bw thresholdAdj="0"/>
+            </color-params>
+          </image>
+          <file size="96276" mtime="1511636747"/>
+          <speckles size="1638" mtime="1511636747"/>
+          <zones/>
+          <fill-zones/>
+        </output-params>
+      </page>
+      <page id="49">
+        <zones/>
+        <fill-zones/>
+        <params depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+          <dpi vertical="300" horizontal="300"/>
+          <color-params colorMode="bw">
+            <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+            <bw thresholdAdj="0"/>
+          </color-params>
+        </params>
+        <output-params>
+          <image depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+            <size width="1984" height="2558"/>
+            <content-rect width="1534" x="225" y="59" height="2408"/>
+            <partial-xform>
+              <m11>1</m11>
+              <m12>0</m12>
+              <m21>0</m21>
+              <m22>1</m22>
+            </partial-xform>
+            <dpi vertical="300" horizontal="300"/>
+            <color-params colorMode="bw">
+              <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+              <bw thresholdAdj="0"/>
+            </color-params>
+          </image>
+          <file size="111684" mtime="1511636749"/>
+          <speckles size="1610" mtime="1511636749"/>
+          <zones/>
+          <fill-zones/>
+        </output-params>
+      </page>
+      <page id="52">
+        <zones/>
+        <fill-zones/>
+        <params depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+          <dpi vertical="300" horizontal="300"/>
+          <color-params colorMode="bw">
+            <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+            <bw thresholdAdj="0"/>
+          </color-params>
+        </params>
+        <output-params>
+          <image depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+            <size width="1984" height="2558"/>
+            <content-rect width="1536" x="224" y="59" height="2416"/>
+            <partial-xform>
+              <m11>0.9999976201773518</m11>
+              <m12>0.00218165983433677</m12>
+              <m21>-0.00218165983433677</m21>
+              <m22>0.9999976201773518</m22>
+            </partial-xform>
+            <dpi vertical="300" horizontal="300"/>
+            <color-params colorMode="bw">
+              <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+              <bw thresholdAdj="0"/>
+            </color-params>
+          </image>
+          <file size="97070" mtime="1511636750"/>
+          <speckles size="2010" mtime="1511636750"/>
+          <zones/>
+          <fill-zones/>
+        </output-params>
+      </page>
+      <page id="55">
+        <zones/>
+        <fill-zones/>
+        <params depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+          <dpi vertical="300" horizontal="300"/>
+          <color-params colorMode="bw">
+            <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+            <bw thresholdAdj="0"/>
+          </color-params>
+        </params>
+        <output-params>
+          <image depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+            <size width="1984" height="2558"/>
+            <content-rect width="1532" x="226" y="59" height="2426"/>
+            <partial-xform>
+              <m11>1</m11>
+              <m12>0</m12>
+              <m21>0</m21>
+              <m22>1</m22>
+            </partial-xform>
+            <dpi vertical="300" horizontal="300"/>
+            <color-params colorMode="bw">
+              <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+              <bw thresholdAdj="0"/>
+            </color-params>
+          </image>
+          <file size="62930" mtime="1511636752"/>
+          <speckles size="1646" mtime="1511636752"/>
+          <zones/>
+          <fill-zones/>
+        </output-params>
+      </page>
+      <page id="58">
+        <zones/>
+        <fill-zones/>
+        <params depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+          <dpi vertical="300" horizontal="300"/>
+          <color-params colorMode="bw">
+            <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+            <bw thresholdAdj="0"/>
+          </color-params>
+        </params>
+        <output-params>
+          <image depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+            <size width="1984" height="2558"/>
+            <content-rect width="1530" x="227" y="59" height="2440"/>
+            <partial-xform>
+              <m11>1</m11>
+              <m12>0</m12>
+              <m21>0</m21>
+              <m22>1</m22>
+            </partial-xform>
+            <dpi vertical="300" horizontal="300"/>
+            <color-params colorMode="bw">
+              <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+              <bw thresholdAdj="0"/>
+            </color-params>
+          </image>
+          <file size="65418" mtime="1511636753"/>
+          <speckles size="1650" mtime="1511636753"/>
+          <zones/>
+          <fill-zones/>
+        </output-params>
+      </page>
+      <page id="61">
+        <zones/>
+        <fill-zones/>
+        <params depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+          <dpi vertical="300" horizontal="300"/>
+          <color-params colorMode="bw">
+            <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+            <bw thresholdAdj="0"/>
+          </color-params>
+        </params>
+        <output-params>
+          <image depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+            <size width="1984" height="2558"/>
+            <content-rect width="1520" x="232" y="59" height="2422"/>
+            <partial-xform>
+              <m11>0.999999405044161</m11>
+              <m12>-0.0010908305661644</m12>
+              <m21>0.0010908305661644</m21>
+              <m22>0.999999405044161</m22>
+            </partial-xform>
+            <dpi vertical="300" horizontal="300"/>
+            <color-params colorMode="bw">
+              <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+              <bw thresholdAdj="0"/>
+            </color-params>
+          </image>
+          <file size="61006" mtime="1511636755"/>
+          <speckles size="1644" mtime="1511636755"/>
+          <zones/>
+          <fill-zones/>
+        </output-params>
+      </page>
+      <page id="64">
+        <zones/>
+        <fill-zones/>
+        <params depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+          <dpi vertical="300" horizontal="300"/>
+          <color-params colorMode="bw">
+            <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+            <bw thresholdAdj="0"/>
+          </color-params>
+        </params>
+        <output-params>
+          <image depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+            <size width="1984" height="2558"/>
+            <content-rect width="1538" x="223" y="59" height="2382"/>
+            <partial-xform>
+              <m11>0.9999904807207345</m11>
+              <m12>0.004363309284746571</m12>
+              <m21>-0.004363309284746571</m21>
+              <m22>0.9999904807207345</m22>
+            </partial-xform>
+            <dpi vertical="300" horizontal="300"/>
+            <color-params colorMode="bw">
+              <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+              <bw thresholdAdj="0"/>
+            </color-params>
+          </image>
+          <file size="62718" mtime="1511636756"/>
+          <speckles size="2218" mtime="1511636756"/>
+          <zones/>
+          <fill-zones/>
+        </output-params>
+      </page>
+      <page id="67">
+        <zones/>
+        <fill-zones/>
+        <params depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+          <dpi vertical="300" horizontal="300"/>
+          <color-params colorMode="bw">
+            <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+            <bw thresholdAdj="0"/>
+          </color-params>
+        </params>
+        <output-params>
+          <image depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+            <size width="1984" height="2558"/>
+            <content-rect width="1550" x="217" y="59" height="2362"/>
+            <partial-xform>
+              <m11>1</m11>
+              <m12>0</m12>
+              <m21>0</m21>
+              <m22>1</m22>
+            </partial-xform>
+            <dpi vertical="300" horizontal="300"/>
+            <color-params colorMode="bw">
+              <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+              <bw thresholdAdj="0"/>
+            </color-params>
+          </image>
+          <file size="63080" mtime="1511636757"/>
+          <speckles size="1626" mtime="1511636757"/>
+          <zones/>
+          <fill-zones/>
+        </output-params>
+      </page>
+      <page id="70">
+        <zones/>
+        <fill-zones/>
+        <params depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+          <dpi vertical="300" horizontal="300"/>
+          <color-params colorMode="bw">
+            <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+            <bw thresholdAdj="0"/>
+          </color-params>
+        </params>
+        <output-params>
+          <image depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+            <size width="1984" height="2558"/>
+            <content-rect width="1546" x="219" y="59" height="2376"/>
+            <partial-xform>
+              <m11>1</m11>
+              <m12>0</m12>
+              <m21>0</m21>
+              <m22>1</m22>
+            </partial-xform>
+            <dpi vertical="300" horizontal="300"/>
+            <color-params colorMode="bw">
+              <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+              <bw thresholdAdj="0"/>
+            </color-params>
+          </image>
+          <file size="62992" mtime="1511636759"/>
+          <speckles size="1644" mtime="1511636759"/>
+          <zones/>
+          <fill-zones/>
+        </output-params>
+      </page>
+      <page id="73">
+        <zones/>
+        <fill-zones/>
+        <params depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+          <dpi vertical="300" horizontal="300"/>
+          <color-params colorMode="bw">
+            <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+            <bw thresholdAdj="0"/>
+          </color-params>
+        </params>
+        <output-params>
+          <image depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+            <size width="1984" height="2558"/>
+            <content-rect width="1544" x="220" y="59" height="2354"/>
+            <partial-xform>
+              <m11>0.999999405044161</m11>
+              <m12>-0.0010908305661644</m12>
+              <m21>0.0010908305661644</m21>
+              <m22>0.999999405044161</m22>
+            </partial-xform>
+            <dpi vertical="300" horizontal="300"/>
+            <color-params colorMode="bw">
+              <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+              <bw thresholdAdj="0"/>
+            </color-params>
+          </image>
+          <file size="78782" mtime="1511636760"/>
+          <speckles size="1640" mtime="1511636760"/>
+          <zones/>
+          <fill-zones/>
+        </output-params>
+      </page>
+      <page id="76">
+        <zones/>
+        <fill-zones/>
+        <params depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+          <dpi vertical="300" horizontal="300"/>
+          <color-params colorMode="bw">
+            <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+            <bw thresholdAdj="0"/>
+          </color-params>
+        </params>
+        <output-params>
+          <image depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+            <size width="1984" height="2558"/>
+            <content-rect width="1522" x="231" y="59" height="2346"/>
+            <partial-xform>
+              <m11>0.9999976201773518</m11>
+              <m12>0.00218165983433677</m12>
+              <m21>-0.00218165983433677</m21>
+              <m22>0.9999976201773518</m22>
+            </partial-xform>
+            <dpi vertical="300" horizontal="300"/>
+            <color-params colorMode="bw">
+              <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+              <bw thresholdAdj="0"/>
+            </color-params>
+          </image>
+          <file size="96680" mtime="1511636762"/>
+          <speckles size="1612" mtime="1511636762"/>
+          <zones/>
+          <fill-zones/>
+        </output-params>
+      </page>
+    </output>
+  </filters>
+</project>

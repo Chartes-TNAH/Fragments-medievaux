@@ -1,0 +1,478 @@
+InfoBegin
+InfoKey: ModDate
+InfoValue: D:20160915130259+02'00'
+InfoBegin
+InfoKey: CreationDate
+InfoValue: D:20160915130203+02'00'
+InfoBegin
+InfoKey: Author
+InfoValue: Paul Meyer
+InfoBegin
+InfoKey: Title
+InfoValue: Fragments de manuscrits fran&#231;ais
+InfoBegin
+InfoKey: Producer
+InfoValue: iText 5.0.2 (c) 1T3XT BVBA
+PdfID0: fb47e19d4a235d4feec191b132048bba
+PdfID1: 478dff03ef5c6c51a85aec069cb069e4
+NumberOfPages: 30
+BookmarkBegin
+BookmarkTitle: Informations
+BookmarkLevel: 1
+BookmarkPageNumber: 1
+BookmarkBegin
+BookmarkTitle: Informations sur Paul Meyer
+BookmarkLevel: 2
+BookmarkPageNumber: 0
+BookmarkBegin
+BookmarkTitle: Pagination
+BookmarkLevel: 1
+BookmarkPageNumber: 2
+BookmarkBegin
+BookmarkTitle: 429
+BookmarkLevel: 2
+BookmarkPageNumber: 2
+BookmarkBegin
+BookmarkTitle: 430
+BookmarkLevel: 2
+BookmarkPageNumber: 3
+BookmarkBegin
+BookmarkTitle: 431
+BookmarkLevel: 2
+BookmarkPageNumber: 4
+BookmarkBegin
+BookmarkTitle: 432
+BookmarkLevel: 2
+BookmarkPageNumber: 5
+BookmarkBegin
+BookmarkTitle: 433
+BookmarkLevel: 2
+BookmarkPageNumber: 6
+BookmarkBegin
+BookmarkTitle: 434
+BookmarkLevel: 2
+BookmarkPageNumber: 7
+BookmarkBegin
+BookmarkTitle: 435
+BookmarkLevel: 2
+BookmarkPageNumber: 8
+BookmarkBegin
+BookmarkTitle: 436
+BookmarkLevel: 2
+BookmarkPageNumber: 9
+BookmarkBegin
+BookmarkTitle: 437
+BookmarkLevel: 2
+BookmarkPageNumber: 10
+BookmarkBegin
+BookmarkTitle: 438
+BookmarkLevel: 2
+BookmarkPageNumber: 11
+BookmarkBegin
+BookmarkTitle: 439
+BookmarkLevel: 2
+BookmarkPageNumber: 12
+BookmarkBegin
+BookmarkTitle: 440
+BookmarkLevel: 2
+BookmarkPageNumber: 13
+BookmarkBegin
+BookmarkTitle: 441
+BookmarkLevel: 2
+BookmarkPageNumber: 14
+BookmarkBegin
+BookmarkTitle: 442
+BookmarkLevel: 2
+BookmarkPageNumber: 15
+BookmarkBegin
+BookmarkTitle: 443
+BookmarkLevel: 2
+BookmarkPageNumber: 16
+BookmarkBegin
+BookmarkTitle: 444
+BookmarkLevel: 2
+BookmarkPageNumber: 17
+BookmarkBegin
+BookmarkTitle: 445
+BookmarkLevel: 2
+BookmarkPageNumber: 18
+BookmarkBegin
+BookmarkTitle: 446
+BookmarkLevel: 2
+BookmarkPageNumber: 19
+BookmarkBegin
+BookmarkTitle: 447
+BookmarkLevel: 2
+BookmarkPageNumber: 20
+BookmarkBegin
+BookmarkTitle: 448
+BookmarkLevel: 2
+BookmarkPageNumber: 21
+BookmarkBegin
+BookmarkTitle: 449
+BookmarkLevel: 2
+BookmarkPageNumber: 22
+BookmarkBegin
+BookmarkTitle: 450
+BookmarkLevel: 2
+BookmarkPageNumber: 23
+BookmarkBegin
+BookmarkTitle: 451
+BookmarkLevel: 2
+BookmarkPageNumber: 24
+BookmarkBegin
+BookmarkTitle: 452
+BookmarkLevel: 2
+BookmarkPageNumber: 25
+BookmarkBegin
+BookmarkTitle: 453
+BookmarkLevel: 2
+BookmarkPageNumber: 26
+BookmarkBegin
+BookmarkTitle: 454
+BookmarkLevel: 2
+BookmarkPageNumber: 27
+BookmarkBegin
+BookmarkTitle: 455
+BookmarkLevel: 2
+BookmarkPageNumber: 28
+BookmarkBegin
+BookmarkTitle: 456
+BookmarkLevel: 2
+BookmarkPageNumber: 29
+BookmarkBegin
+BookmarkTitle: 457
+BookmarkLevel: 2
+BookmarkPageNumber: 30
+BookmarkBegin
+BookmarkTitle: Plan
+BookmarkLevel: 1
+BookmarkPageNumber: 2
+BookmarkBegin
+BookmarkTitle: I. &#8212; Fragment de Garin le Lorrain 
+BookmarkLevel: 2
+BookmarkPageNumber: 2
+BookmarkBegin
+BookmarkTitle: II. &#8212; Fragments de Girbert de Metz 
+BookmarkLevel: 2
+BookmarkPageNumber: 8
+BookmarkBegin
+BookmarkTitle: 1. &#8212; Fragment de Troyes
+BookmarkLevel: 3
+BookmarkPageNumber: 8
+BookmarkBegin
+BookmarkTitle: 2. &#8212; Fragment de Brasenose College, Oxford
+BookmarkLevel: 3
+BookmarkPageNumber: 14
+BookmarkBegin
+BookmarkTitle: III. &#8212; Fragments de Girart de Vienne
+BookmarkLevel: 2
+BookmarkPageNumber: 17
+BookmarkBegin
+BookmarkTitle: IV. &#8212; Fragment de la branche XI de Renart
+BookmarkLevel: 2
+BookmarkPageNumber: 28
+BookmarkBegin
+BookmarkTitle: Illustrations
+BookmarkLevel: 1
+BookmarkPageNumber: 25
+PageMediaBegin
+PageMediaNumber: 1
+PageMediaRotation: 0
+PageMediaRect: 0 0 595 842
+PageMediaDimensions: 595 842
+PageMediaBegin
+PageMediaNumber: 2
+PageMediaRotation: 0
+PageMediaRect: 0 0 595 842
+PageMediaDimensions: 595 842
+PageMediaBegin
+PageMediaNumber: 3
+PageMediaRotation: 0
+PageMediaRect: 0 0 595 842
+PageMediaDimensions: 595 842
+PageMediaBegin
+PageMediaNumber: 4
+PageMediaRotation: 0
+PageMediaRect: 0 0 595 842
+PageMediaDimensions: 595 842
+PageMediaBegin
+PageMediaNumber: 5
+PageMediaRotation: 90
+PageMediaRect: 0 0 595 842
+PageMediaDimensions: 595 842
+PageMediaBegin
+PageMediaNumber: 6
+PageMediaRotation: 0
+PageMediaRect: 0 0 595 842
+PageMediaDimensions: 595 842
+PageMediaBegin
+PageMediaNumber: 7
+PageMediaRotation: 0
+PageMediaRect: 0 0 595 842
+PageMediaDimensions: 595 842
+PageMediaBegin
+PageMediaNumber: 8
+PageMediaRotation: 0
+PageMediaRect: 0 0 595 842
+PageMediaDimensions: 595 842
+PageMediaBegin
+PageMediaNumber: 9
+PageMediaRotation: 0
+PageMediaRect: 0 0 595 842
+PageMediaDimensions: 595 842
+PageMediaBegin
+PageMediaNumber: 10
+PageMediaRotation: 0
+PageMediaRect: 0 0 595 842
+PageMediaDimensions: 595 842
+PageMediaBegin
+PageMediaNumber: 11
+PageMediaRotation: 0
+PageMediaRect: 0 0 595 842
+PageMediaDimensions: 595 842
+PageMediaBegin
+PageMediaNumber: 12
+PageMediaRotation: 0
+PageMediaRect: 0 0 595 842
+PageMediaDimensions: 595 842
+PageMediaBegin
+PageMediaNumber: 13
+PageMediaRotation: 0
+PageMediaRect: 0 0 595 842
+PageMediaDimensions: 595 842
+PageMediaBegin
+PageMediaNumber: 14
+PageMediaRotation: 0
+PageMediaRect: 0 0 595 842
+PageMediaDimensions: 595 842
+PageMediaBegin
+PageMediaNumber: 15
+PageMediaRotation: 0
+PageMediaRect: 0 0 595 842
+PageMediaDimensions: 595 842
+PageMediaBegin
+PageMediaNumber: 16
+PageMediaRotation: 0
+PageMediaRect: 0 0 595 842
+PageMediaDimensions: 595 842
+PageMediaBegin
+PageMediaNumber: 17
+PageMediaRotation: 0
+PageMediaRect: 0 0 595 842
+PageMediaDimensions: 595 842
+PageMediaBegin
+PageMediaNumber: 18
+PageMediaRotation: 0
+PageMediaRect: 0 0 595 842
+PageMediaDimensions: 595 842
+PageMediaBegin
+PageMediaNumber: 19
+PageMediaRotation: 0
+PageMediaRect: 0 0 595 842
+PageMediaDimensions: 595 842
+PageMediaBegin
+PageMediaNumber: 20
+PageMediaRotation: 0
+PageMediaRect: 0 0 595 842
+PageMediaDimensions: 595 842
+PageMediaBegin
+PageMediaNumber: 21
+PageMediaRotation: 0
+PageMediaRect: 0 0 595 842
+PageMediaDimensions: 595 842
+PageMediaBegin
+PageMediaNumber: 22
+PageMediaRotation: 0
+PageMediaRect: 0 0 595 842
+PageMediaDimensions: 595 842
+PageMediaBegin
+PageMediaNumber: 23
+PageMediaRotation: 0
+PageMediaRect: 0 0 595 842
+PageMediaDimensions: 595 842
+PageMediaBegin
+PageMediaNumber: 24
+PageMediaRotation: 0
+PageMediaRect: 0 0 595 842
+PageMediaDimensions: 595 842
+PageMediaBegin
+PageMediaNumber: 25
+PageMediaRotation: 0
+PageMediaRect: 0 0 595 842
+PageMediaDimensions: 595 842
+PageMediaBegin
+PageMediaNumber: 26
+PageMediaRotation: 0
+PageMediaRect: 0 0 595 842
+PageMediaDimensions: 595 842
+PageMediaBegin
+PageMediaNumber: 27
+PageMediaRotation: 0
+PageMediaRect: 0 0 595 842
+PageMediaDimensions: 595 842
+PageMediaBegin
+PageMediaNumber: 28
+PageMediaRotation: 0
+PageMediaRect: 0 0 595 842
+PageMediaDimensions: 595 842
+PageMediaBegin
+PageMediaNumber: 29
+PageMediaRotation: 0
+PageMediaRect: 0 0 595 842
+PageMediaDimensions: 595 842
+PageMediaBegin
+PageMediaNumber: 30
+PageMediaRotation: 0
+PageMediaRect: 0 0 595 842
+PageMediaDimensions: 595 842
+PageLabelBegin
+PageLabelNewIndex: 1
+PageLabelStart: 1
+PageLabelPrefix: Pr&#233;sentation
+PageLabelNumStyle: NoNumber
+PageLabelBegin
+PageLabelNewIndex: 2
+PageLabelStart: 429
+PageLabelPrefix: 
+PageLabelNumStyle: DecimalArabicNumerals
+PageLabelBegin
+PageLabelNewIndex: 3
+PageLabelStart: 430
+PageLabelPrefix: 
+PageLabelNumStyle: DecimalArabicNumerals
+PageLabelBegin
+PageLabelNewIndex: 4
+PageLabelStart: 431
+PageLabelPrefix: 
+PageLabelNumStyle: DecimalArabicNumerals
+PageLabelBegin
+PageLabelNewIndex: 5
+PageLabelStart: 432
+PageLabelPrefix: 
+PageLabelNumStyle: DecimalArabicNumerals
+PageLabelBegin
+PageLabelNewIndex: 6
+PageLabelStart: 433
+PageLabelPrefix: 
+PageLabelNumStyle: DecimalArabicNumerals
+PageLabelBegin
+PageLabelNewIndex: 7
+PageLabelStart: 434
+PageLabelPrefix: 
+PageLabelNumStyle: DecimalArabicNumerals
+PageLabelBegin
+PageLabelNewIndex: 8
+PageLabelStart: 435
+PageLabelPrefix: 
+PageLabelNumStyle: DecimalArabicNumerals
+PageLabelBegin
+PageLabelNewIndex: 9
+PageLabelStart: 436
+PageLabelPrefix: 
+PageLabelNumStyle: DecimalArabicNumerals
+PageLabelBegin
+PageLabelNewIndex: 10
+PageLabelStart: 437
+PageLabelPrefix: 
+PageLabelNumStyle: DecimalArabicNumerals
+PageLabelBegin
+PageLabelNewIndex: 11
+PageLabelStart: 438
+PageLabelPrefix: 
+PageLabelNumStyle: DecimalArabicNumerals
+PageLabelBegin
+PageLabelNewIndex: 12
+PageLabelStart: 439
+PageLabelPrefix: 
+PageLabelNumStyle: DecimalArabicNumerals
+PageLabelBegin
+PageLabelNewIndex: 13
+PageLabelStart: 440
+PageLabelPrefix: 
+PageLabelNumStyle: DecimalArabicNumerals
+PageLabelBegin
+PageLabelNewIndex: 14
+PageLabelStart: 441
+PageLabelPrefix: 
+PageLabelNumStyle: DecimalArabicNumerals
+PageLabelBegin
+PageLabelNewIndex: 15
+PageLabelStart: 442
+PageLabelPrefix: 
+PageLabelNumStyle: DecimalArabicNumerals
+PageLabelBegin
+PageLabelNewIndex: 16
+PageLabelStart: 443
+PageLabelPrefix: 
+PageLabelNumStyle: DecimalArabicNumerals
+PageLabelBegin
+PageLabelNewIndex: 17
+PageLabelStart: 444
+PageLabelPrefix: 
+PageLabelNumStyle: DecimalArabicNumerals
+PageLabelBegin
+PageLabelNewIndex: 18
+PageLabelStart: 445
+PageLabelPrefix: 
+PageLabelNumStyle: DecimalArabicNumerals
+PageLabelBegin
+PageLabelNewIndex: 19
+PageLabelStart: 446
+PageLabelPrefix: 
+PageLabelNumStyle: DecimalArabicNumerals
+PageLabelBegin
+PageLabelNewIndex: 20
+PageLabelStart: 447
+PageLabelPrefix: 
+PageLabelNumStyle: DecimalArabicNumerals
+PageLabelBegin
+PageLabelNewIndex: 21
+PageLabelStart: 448
+PageLabelPrefix: 
+PageLabelNumStyle: DecimalArabicNumerals
+PageLabelBegin
+PageLabelNewIndex: 22
+PageLabelStart: 449
+PageLabelPrefix: 
+PageLabelNumStyle: DecimalArabicNumerals
+PageLabelBegin
+PageLabelNewIndex: 23
+PageLabelStart: 450
+PageLabelPrefix: 
+PageLabelNumStyle: DecimalArabicNumerals
+PageLabelBegin
+PageLabelNewIndex: 24
+PageLabelStart: 451
+PageLabelPrefix: 
+PageLabelNumStyle: DecimalArabicNumerals
+PageLabelBegin
+PageLabelNewIndex: 25
+PageLabelStart: 452
+PageLabelPrefix: 
+PageLabelNumStyle: DecimalArabicNumerals
+PageLabelBegin
+PageLabelNewIndex: 26
+PageLabelStart: 453
+PageLabelPrefix: 
+PageLabelNumStyle: DecimalArabicNumerals
+PageLabelBegin
+PageLabelNewIndex: 27
+PageLabelStart: 454
+PageLabelPrefix: 
+PageLabelNumStyle: DecimalArabicNumerals
+PageLabelBegin
+PageLabelNewIndex: 28
+PageLabelStart: 455
+PageLabelPrefix: 
+PageLabelNumStyle: DecimalArabicNumerals
+PageLabelBegin
+PageLabelNewIndex: 29
+PageLabelStart: 456
+PageLabelPrefix: 
+PageLabelNumStyle: DecimalArabicNumerals
+PageLabelBegin
+PageLabelNewIndex: 30
+PageLabelStart: 457
+PageLabelPrefix: 
+PageLabelNumStyle: DecimalArabicNumerals
