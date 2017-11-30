@@ -1,5 +1,16 @@
 # Corpus de fragments de Garin le Loherain
+
+Référent : @Jean-Baptiste-Camps
+
+- Difficulté : 5/10
+- Répétitivité : 7/10
+- Schéma à utiliser : Lire plus bas
+- Minimum à convertir : Tout
+
+## Notes du référent
+
 Il s'agira de CapiTainSiser les documents, après avoir,
+
 - encodé les métadonnées des documents (teiHeader);
 - rendu la structure générale (front/body/back) des textes, ainsi que le gros de leur structure logique,
 vers et laisses (i.e. strophes), notes ;
@@ -15,12 +26,10 @@ Pour vous aider, vous avez:
 3. je suis disponible pour suivre votre travail et surtout pour répondre à toutes les questions sur le modèle XML ou le reste.
 4. les métadonnées nécessaires sont dans le fichier csv. Vous n'avez qu'à traiter les fragments de Garin, mais, si vous le souhaitez, il y a deux ou trois courts fragments «bonus» qui peuvent être faits en plus (rien d'obligatoire), tirés des mêmes articles.
 
-Dernière remarque: je n'ai mis qu'un seul corpus de fragments (corpus Garin le Loherain), mais si jamais plusieurs groupes étaient intéressés, j'en ai d'autres qui peuvent aussi faire l'affaire.
-
 Vous avez, dans ce dossier:
 racine
 - les métadonnées en csv
 - ce lisez-moi
-    - exemple/  un exemple de fragment encodé
-    - ocr/  le résultat de l'ocr des documents (fichier sortie.txt), ainsi que les sources (dossier src/) ;
-    - odd/  la documentation et le schéma
+- exemple/  un exemple de fragment encodé
+- ocr/  le résultat de l'ocr des documents (fichier sortie.txt), ainsi que les sources (dossier src/) ;
+- odd/  la documentation et le schéma
